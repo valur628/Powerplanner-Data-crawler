@@ -1,0 +1,7 @@
+# ignore files and folders
+# Python Files
+userdata.py
+
+# Folder
+database/
+__pycache__/
